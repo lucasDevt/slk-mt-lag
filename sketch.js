@@ -379,7 +379,7 @@ function perguntas() {
     });
     
   
-    DJ.y += 25;
+    DJ.x -= 25;
   }
 }
 
